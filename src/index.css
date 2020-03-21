@@ -10,3 +10,25 @@ body {
   margin: 0;
   min-height: 100%;
 }
+
+ul {
+  list-style: none;
+}
+
+li {
+  /* border: 1rem solid red; */
+  display: flex;
+  justify-content: center;
+  /* text-align: center; */
+  align-items: center;
+  padding: 0rem;
+}
+
+.slider {
+  width: 70%;
+  height: 2rem;
+  text-align: center;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
